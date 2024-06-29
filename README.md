@@ -18,7 +18,7 @@ See it in [action](http://parambirs.github.io/matrix).
   - background color
   - change character trail length
 
-- CsiPA0723 @ 2024-06-29
+- [CsiPA0723](https://github.com/CsiPA0723) @ 2024-06-29
   Fixed these:
   - scrollbars on side
 
